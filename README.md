@@ -11,3 +11,8 @@ Kodluyoruz Front-End Eğitimimde Veri Yapıları ve  Algoritmaları hakkında ki
 - O(n^2)
 - Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer?
 -> [2,6,16,18,22,27] average case kapsamına girer
+
+### !.Projemin ödevi:
+> ![Adsız2](https://user-images.githubusercontent.com/56695549/159906066-352991e9-e330-4833-9394-4901b3ef5eb3.png)
+
+
